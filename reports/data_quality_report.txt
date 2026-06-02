@@ -1,0 +1,31 @@
+DATA QUALITY REPORT
+==================================================
+
+Fund Master Shape: (40, 15)
+NAV History Shape: (46000, 3)
+
+Missing Values in Fund Master:
+amfi_code             0
+fund_house            0
+scheme_name           0
+category              0
+sub_category          0
+plan                  0
+launch_date           0
+benchmark             0
+expense_ratio_pct     0
+exit_load_pct         0
+min_sip_amount        0
+min_lumpsum_amount    0
+fund_manager          0
+risk_category         0
+sebi_category_code    0
+dtype: int64
+
+Missing Values in NAV History:
+amfi_code    0
+date         0
+nav          0
+dtype: int64
+
+All AMFI codes exist in NAV history
