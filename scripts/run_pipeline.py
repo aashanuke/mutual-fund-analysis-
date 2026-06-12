@@ -1,0 +1,6 @@
+print("Run individual scripts in sequence:")
+print("1. data_ingestion.py")
+print("2. live_nav_fetch.py")
+print("3. data_quality_check.py")
+print("4. data_cleaning.py")
+print("5. load_to_sqlite.py")
